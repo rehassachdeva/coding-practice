@@ -9,3 +9,4 @@
 * [LTIME85B](https://www.codechef.com/LTIME85B)
 * [BIT32020](https://www.codechef.com/BIT32020)
 * [LICO2020](https://www.codechef.com/LICO2020)
+* [CROS2020](https://www.codechef.com/CROS2020)
