@@ -11,3 +11,4 @@
 * [LICO2020](https://www.codechef.com/LICO2020)
 * [CROS2020](https://www.codechef.com/CROS2020)
 * [COTH2020](https://www.codechef.com/COTH2020)
+* [JUNE20B](https://www.codechef.com/JUNE20B)
